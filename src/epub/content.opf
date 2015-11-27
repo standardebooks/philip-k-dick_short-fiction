@@ -21,9 +21,25 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
 		<dc:subject id="subject-3">Time travel -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Humorous stories</dc:subject>
+		<dc:subject id="subject-5">War stories</dc:subject>
+		<dc:subject id="subject-6">Robots -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Fantasy</dc:subject>
+		<dc:subject id="subject-8">Space ships -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Psychological fiction</dc:subject>
+		<dc:subject id="subject-10">Human-alien encounters -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Weapons -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/30255</meta>
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/30255</meta>
 		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/31516</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/32032</meta>
+		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/32032</meta>
+		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/28644</meta>
+		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/32522</meta>
+		<meta property="meta-auth" refines="#subject-9">http://www.gutenberg.org/ebooks/32832</meta>
+		<meta property="meta-auth" refines="#subject-10">http://www.gutenberg.org/ebooks/32832</meta>
+		<meta property="meta-auth" refines="#subject-11">http://www.gutenberg.org/ebooks/32154</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
