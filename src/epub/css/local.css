@@ -1,9 +1,55 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* helpful during drafting */
-[epub|type~="z3998:roman"],
-[lang]:not(html),
-abbr{
-	background: #C0C0C0;
+section > header{
+	text-align: center;
+}
+
+p[epub|type~="bridgehead"]{
+	font-style: italic;
+	hyphens: none;
+	margin: 3em;
+	margin-top: 0;
+	text-align: left;
+	text-indent: 0;
+	display: inline-block;
+}
+
+#the-eyes-have-it blockquote{
+	font-style: italic;
+}
+
+abbr.era{
+	font-variant: all-small-caps;
+}
+
+abbr.name{
+	white-space: nowrap;
+}
+
+.newspaper p,
+.inscription p{
+	text-indent: 0;
+}
+
+.inscription{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+.newspaper header{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+[epub|type~="z3998:letter"] p{
+	text-indent: 0;
+}
+
+.signature{
+	text-align: right;
+}
+
+section[epub|type~="chapter"]{
+	page-break-after: always;
 }
