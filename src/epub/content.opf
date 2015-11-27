@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/philip-k-dick/short-fiction</dc:identifier>
-		<dc:date>RELEASEDATE</dc:date>
-		<meta property="dcterms:modified">MODIFIEDDATE</meta>
-		<dc:rights>Public domain; see the Unlicense included with this file.</dc:rights>
+		<dc:date>2015-11-27T21:53:59Z</dc:date>
+		<meta property="dcterms:modified">2015-11-27T21:53:59Z</meta>
+		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -17,47 +17,63 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Time travel -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Philip K. Dick built an enduring literary reputation writing powerful science fiction in the pulp magazines of the 50s and beyond.  This collection of several of his short works, arranged in chronological order and all published in now-defunct science fiction pulp magazines, is a slice from his early career.  Many of these stories explore the themes of war and whether humanity is intrinsically violent and conflict-torn.  Each of them is a fascinating jewel of speculative fiction.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/31516</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/32032</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/28644</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/28554</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/32522</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/28767</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/30255</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/28698</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/32832</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/29132</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/41562</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/40964</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/32154</dc:source>
+		<meta property="se:word-count">105159</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Philip_K._Dick_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-k-dick_short-fiction</meta>
 		<dc:creator id="author">Philip K. Dick</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Dick, Philip K.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Philip Kindred Dick</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Philip_K._Dick</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79018147.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">Mikalojus Konstantinas Čiurlionis</dc:contributor>
+		<meta property="file-as" refines="#artist">Čiurlionis, Mikalojus Konstantinas </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50041873.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -72,12 +88,38 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/beyond-lies-the-wub.xhtml" id="beyond-lies-the-wub.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beyond-the-door.xhtml" id="beyond-the-door.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/mr-spaceship.xhtml" id="mr-spaceship.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/piper-in-the-woods.xhtml" id="piper-in-the-woods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/second-variety.xhtml" id="second-variety.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crystal-crypt.xhtml" id="the-crystal-crypt.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-defenders.xhtml" id="the-defenders.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-eyes-have-it.xhtml" id="the-eyes-have-it.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gun.xhtml" id="the-gun.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hanging-stranger.xhtml" id="the-hanging-stranger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-skull.xhtml" id="the-skull.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-variable-man.xhtml" id="the-variable-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tony-and-the-beetles.xhtml" id="tony-and-the-beetles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="beyond-lies-the-wub.xhtml"/>
+		<itemref idref="the-gun.xhtml"/>
+		<itemref idref="the-skull.xhtml"/>
+		<itemref idref="the-defenders.xhtml"/>
+		<itemref idref="the-eyes-have-it.xhtml"/>
+		<itemref idref="the-hanging-stranger.xhtml"/>
+		<itemref idref="mr-spaceship.xhtml"/>
+		<itemref idref="piper-in-the-woods.xhtml"/>
+		<itemref idref="second-variety.xhtml"/>
+		<itemref idref="tony-and-the-beetles.xhtml"/>
+		<itemref idref="the-variable-man.xhtml"/>
+		<itemref idref="beyond-the-door.xhtml"/>
+		<itemref idref="the-crystal-crypt.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>
