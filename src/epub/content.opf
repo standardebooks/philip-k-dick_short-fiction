@@ -108,6 +108,7 @@
 		<item href="text/beyond-lies-the-wub.xhtml" id="beyond-lies-the-wub.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-door.xhtml" id="beyond-the-door.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/mr-spaceship.xhtml" id="mr-spaceship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/piper-in-the-woods.xhtml" id="piper-in-the-woods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/second-variety.xhtml" id="second-variety.xhtml" media-type="application/xhtml+xml"/>
@@ -124,6 +125,7 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="beyond-lies-the-wub.xhtml"/>
 		<itemref idref="the-gun.xhtml"/>
 		<itemref idref="the-skull.xhtml"/>
