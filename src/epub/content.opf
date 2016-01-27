@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/philip-k-dick/short-fiction</dc:identifier>
 		<dc:date>2015-11-27T21:53:59Z</dc:date>
-		<meta property="dcterms:modified">2015-12-23T02:16:34Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:42:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,17 +29,17 @@
 		<dc:subject id="subject-9">Psychological fiction</dc:subject>
 		<dc:subject id="subject-10">Human-alien encounters -- Fiction</dc:subject>
 		<dc:subject id="subject-11">Weapons -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/31516</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/32032</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/32032</meta>
-		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/28644</meta>
-		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/32522</meta>
-		<meta property="meta-auth" refines="#subject-9">http://www.gutenberg.org/ebooks/32832</meta>
-		<meta property="meta-auth" refines="#subject-10">http://www.gutenberg.org/ebooks/32832</meta>
-		<meta property="meta-auth" refines="#subject-11">http://www.gutenberg.org/ebooks/32154</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/30255</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/31516</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/32032</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/32032</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/28644</meta>
+		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/32522</meta>
+		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/32832</meta>
+		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/32832</meta>
+		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/32154</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
@@ -49,19 +49,19 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/31516</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/32032</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/28644</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/28554</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/32522</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/28767</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/30255</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/28698</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/32832</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/29132</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/41562</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/40964</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/32154</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/31516</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/32032</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/28644</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/28554</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/32522</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/28767</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30255</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/28698</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/32832</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/29132</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41562</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/40964</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/32154</dc:source>
 		<meta property="se:word-count">105157</meta>
 		<meta property="se:reading-ease.flesch">79.67</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Philip_K._Dick_bibliography#Short_stories</meta>
