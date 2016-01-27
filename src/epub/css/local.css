@@ -5,14 +5,13 @@ section > header{
 	text-align: center;
 }
 
-p[epub|type~="bridgehead"]{
-	font-style: italic;
-	hyphens: none;
-	margin: 3em;
-	margin-top: 0;
-	text-align: left;
-	text-indent: 0;
+[epub|type~="bridgehead"]{
 	display: inline-block;
+	font-style: italic;
+	margin: 0 auto 3em auto;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
 }
 
 #the-eyes-have-it blockquote{
