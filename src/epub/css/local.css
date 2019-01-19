@@ -22,11 +22,11 @@ abbr.era{
 }
 
 .newspaper p,
-.inscription p{
+#the-gun blockquote p{
 	text-indent: 0;
 }
 
-.inscription{
+#the-gun blockquote{
 	text-align: center;
 	font-variant: small-caps;
 }
