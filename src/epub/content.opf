@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -40,25 +40,34 @@
 		<dc:subject id="subject-9">Psychological fiction</dc:subject>
 		<dc:subject id="subject-10">Human-alien encounters -- Fiction</dc:subject>
 		<dc:subject id="subject-11">Weapons -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/30255</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/31516</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/32032</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/32032</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/28644</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/32522</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/32832</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/32832</meta>
-		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/32154</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85062975</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85145220</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008110972</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85047157</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008111361</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh85108438</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008105650</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Philip K. Dick built an enduring literary reputation writing powerful science fiction in the pulp magazines of the 50s and beyond. This collection of several of his short works, arranged in chronological order and all published in now-defunct science fiction pulp magazines, is a slice from his early career. Many of these stories explore the themes of war and whether humanity is intrinsically violent and conflict-torn. Each of them is a fascinating jewel of speculative fiction.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31516</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/32032</dc:source>
