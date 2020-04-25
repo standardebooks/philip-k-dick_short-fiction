@@ -93,7 +93,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79018147</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Mikalojus Konstantinas Čiurlionis</dc:contributor>
-		<meta property="file-as" refines="#artist">Čiurlionis, Mikalojus Konstantinas </meta>
+		<meta property="file-as" refines="#artist">Čiurlionis, Mikalojus Konstantinas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50041873</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
