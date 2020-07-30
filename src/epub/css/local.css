@@ -44,5 +44,5 @@ abbr.era{
 }
 
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
