@@ -39,7 +39,7 @@ abbr.era{
 	text-indent: 0;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
