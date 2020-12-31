@@ -39,8 +39,13 @@ abbr.era{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:signature"]{
+footer{
+	margin-top: 1em;
 	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
 
 section[epub|type~="chapter"]{
