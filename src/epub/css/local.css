@@ -13,6 +13,10 @@ abbr.acronym{
 	text-indent: 0;
 }
 
+[epub|type~="bridgehead"] em{
+	font-style: normal;
+}
+
 #the-eyes-have-it blockquote{
 	font-style: italic;
 }
