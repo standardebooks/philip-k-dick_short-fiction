@@ -40,6 +40,9 @@
 		<dc:subject id="subject-9">Psychological fiction</dc:subject>
 		<dc:subject id="subject-10">Human-alien encounters -- Fiction</dc:subject>
 		<dc:subject id="subject-11">Weapons -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Boys -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Space colonies -- Fiction</dc:subject>
+		<dc:subject id="subject-14">Racism -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -62,6 +65,12 @@
 		<meta property="term" refines="#subject-10">sh2008105650</meta>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">Unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
