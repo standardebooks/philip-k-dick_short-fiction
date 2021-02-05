@@ -48,7 +48,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121813</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="term" refines="#subject-3">sh2008112697</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85062975</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
@@ -66,11 +66,11 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="authority" refines="#subject-12">LCSH</meta>
-		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="term" refines="#subject-12">sh2007101907</meta>
 		<meta property="authority" refines="#subject-13">LCSH</meta>
-		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="term" refines="#subject-13">sh2008111729</meta>
 		<meta property="authority" refines="#subject-14">LCSH</meta>
-		<meta property="term" refines="#subject-14">Unknown</meta>
+		<meta property="term" refines="#subject-14">sh2008110344</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short works by science fiction legend Philip K. Dick.</dc:description>
