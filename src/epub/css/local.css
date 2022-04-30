@@ -25,18 +25,9 @@
 	font-variant: all-small-caps;
 }
 
-.newspaper p,
-#the-gun blockquote p{
-	text-indent: 0;
-}
-
 #the-gun blockquote{
 	font-variant: small-caps;
 	text-align: center;
-}
-
-.newspaper header{
-	font-variant: small-caps;
 }
 
 [epub|type~="z3998:letter"] p{
@@ -54,4 +45,10 @@ footer{
 
 section[epub|type~="chapter"]{
 	break-after: page;
+}
+
+blockquote header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
 }
