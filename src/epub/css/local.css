@@ -40,3 +40,7 @@ blockquote header{
 	margin: 1em;
 	text-align: center;
 }
+
+table{
+	margin: 1em auto 1em auto;
+}
