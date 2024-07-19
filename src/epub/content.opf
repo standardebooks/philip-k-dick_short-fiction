@@ -91,7 +91,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/41562</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/40964</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/32154</dc:source>
-		<meta property="se:word-count">104925</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/70242</dc:source>
+		<meta property="se:word-count">112834</meta>
 		<meta property="se:reading-ease.flesch">79.67</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Philip_K._Dick_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-k-dick_short-fiction</meta>
@@ -112,10 +113,13 @@
 		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Blundell, Stephen</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
+		<dc:contributor id="transcriber-3">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
@@ -139,6 +143,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/mr-spaceship.xhtml" id="mr-spaceship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/piper-in-the-woods.xhtml" id="piper-in-the-woods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prize-ship.xhtml" id="prize-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/second-variety.xhtml" id="second-variety.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-crystal-crypt.xhtml" id="the-crystal-crypt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-defenders.xhtml" id="the-defenders.xhtml" media-type="application/xhtml+xml"/>
@@ -168,6 +173,7 @@
 		<itemref idref="the-variable-man.xhtml"/>
 		<itemref idref="beyond-the-door.xhtml"/>
 		<itemref idref="the-crystal-crypt.xhtml"/>
+		<itemref idref="prize-ship.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
