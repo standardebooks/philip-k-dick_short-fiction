@@ -92,8 +92,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/40964</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/32154</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/70242</dc:source>
-		<meta property="se:word-count">112834</meta>
-		<meta property="se:reading-ease.flesch">79.67</meta>
+		<meta property="se:word-count">112003</meta>
+		<meta property="se:reading-ease.flesch">79.77</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Philip_K._Dick_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-k-dick_short-fiction</meta>
 		<dc:creator id="author">Philip K. Dick</dc:creator>
