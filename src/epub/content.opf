@@ -75,7 +75,7 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of short works by science fiction legend Philip K. Dick.</dc:abstract>
+		<meta property="schema:abstract">A collection of short works by science fiction legend Philip K. Dick.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/philip-k-dick"&gt;Philip &lt;abbr&gt;K.&lt;/abbr&gt; Dick&lt;/a&gt; built an enduring literary reputation writing powerful science fiction in the pulp magazines of the 50s and beyond. This collection of several of his short works, arranged in chronological order and all published in now-defunct science fiction pulp magazines, is a slice from his early career. Many of these stories explore the themes of war and whether humanity is intrinsically violent and conflict-torn. Each of them is a fascinating jewel of speculative fiction.&lt;/p&gt;
 		</dc:description>
