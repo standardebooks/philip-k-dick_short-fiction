@@ -32,18 +32,18 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
-		<dc:subject id="subject-3">Time travel -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Time travel--Fiction</dc:subject>
 		<dc:subject id="subject-4">Humorous stories</dc:subject>
 		<dc:subject id="subject-5">War stories</dc:subject>
-		<dc:subject id="subject-6">Robots -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Robots--Fiction</dc:subject>
 		<dc:subject id="subject-7">Fantasy</dc:subject>
-		<dc:subject id="subject-8">Space ships -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Space ships--Fiction</dc:subject>
 		<dc:subject id="subject-9">Psychological fiction</dc:subject>
-		<dc:subject id="subject-10">Human-alien encounters -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Weapons -- Fiction</dc:subject>
-		<dc:subject id="subject-12">Boys -- Fiction</dc:subject>
-		<dc:subject id="subject-13">Space colonies -- Fiction</dc:subject>
-		<dc:subject id="subject-14">Racism -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-11">Weapons--Fiction</dc:subject>
+		<dc:subject id="subject-12">Boys--Fiction</dc:subject>
+		<dc:subject id="subject-13">Space colonies--Fiction</dc:subject>
+		<dc:subject id="subject-14">Racism--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
